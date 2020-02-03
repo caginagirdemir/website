@@ -1,1 +1,1 @@
-After use that, you must add to fckeditor as a file in mainroot.
+Before use that, you must add to fckeditor in mainroot as a file
